@@ -1,1 +1,1 @@
-The git repo contains some autmation code .
+The git repo contains some autmation code
